@@ -1,0 +1,17 @@
+LEKTION 6
+
+npm init
+
+npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator
+
+npm i -D nodemon
+
+node server /* to run server
+
+/* run script to run server with nodemon 
+npm run server
+
+LEKTION 7
+
+LEKTION 8
+
