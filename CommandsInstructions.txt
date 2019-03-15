@@ -15,3 +15,15 @@ LEKTION 7
 
 LEKTION 8
 
+LEKTION 9
+
+LEKTION 10
+
+Download Postman
+
+gravatar library on github for docu
+npm i gravatar
+
+LEKTION 11
+
+
