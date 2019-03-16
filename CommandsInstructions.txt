@@ -26,4 +26,8 @@ npm i gravatar
 
 LEKTION 11
 
+LEKTION 12
+
+LEKTION 13
+
 
