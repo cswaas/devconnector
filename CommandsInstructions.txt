@@ -64,4 +64,8 @@ LEKTION 29
 keine Änderungen
 
 LEKTION 30
-
+- Frontend with React
+npm i -g create-react-app
+npm i -g npm /* update npm
+create-react-app client
+npm i concurrently
