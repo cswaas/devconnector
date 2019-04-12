@@ -60,6 +60,7 @@ LEKTION 27
 <<<<<<< HEAD
 
 LEKTION 28
+<<<<<<< HEAD
 
 LEKTION 29
 keine Änderungen
@@ -84,3 +85,7 @@ https://fontawesome.com/
 
 =======
 >>>>>>> parent of 14fc0e1... Commit Lesson 28
+=======
+>>>>>>> parent of 1957c60... Commit Lesson 29
+
+LEKTION 32
