@@ -57,6 +57,7 @@ LEKTION 25
 LEKTION 26
 
 LEKTION 27
+<<<<<<< HEAD
 
 LEKTION 28
 
@@ -81,3 +82,5 @@ https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopl
 Setup Font Awesome
 https://fontawesome.com/
 
+=======
+>>>>>>> parent of 14fc0e1... Commit Lesson 28
