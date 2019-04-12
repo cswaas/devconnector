@@ -69,3 +69,15 @@ npm i -g create-react-app
 npm i -g npm /* update npm
 create-react-app client
 npm i concurrently
+
+LEKTION 31
+Clean up some CSS stuff from React App
+Setup Bootstrap:
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+Install React and Redux Dev Tools for Chrome
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=de
+
+Setup Font Awesome
+https://fontawesome.com/
+
