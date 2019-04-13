@@ -89,3 +89,10 @@ https://fontawesome.com/
 >>>>>>> parent of 1957c60... Commit Lesson 29
 
 LEKTION 32
+
+LEKTION 33
+
+Install React Router in the client
+CD client
+npm i react-router-dom
+npm audit fix
