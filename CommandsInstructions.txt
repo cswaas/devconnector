@@ -96,3 +96,5 @@ Install React Router in the client
 CD client
 npm i react-router-dom
 npm audit fix
+
+LEKTION 34
