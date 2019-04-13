@@ -100,3 +100,10 @@ npm audit fix
 LEKTION 34
 
 LEKTION 35
+
+LEKTION 36
+
+LEKTION 37
+cd client
+npm i axios
+npm audit fix
