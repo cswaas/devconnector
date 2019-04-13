@@ -98,3 +98,5 @@ npm i react-router-dom
 npm audit fix
 
 LEKTION 34
+
+LEKTION 35
