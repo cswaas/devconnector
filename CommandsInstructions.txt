@@ -122,3 +122,5 @@ cd client
 npm i redux react-redux redux-thunk
 
 LEKTION 41
+
+LEKTION 42
