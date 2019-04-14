@@ -124,3 +124,7 @@ npm i redux react-redux redux-thunk
 LEKTION 41
 
 LEKTION 42
+
+LEKTION 43
+cd client
+npm i jwt-decode
