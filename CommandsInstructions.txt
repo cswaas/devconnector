@@ -111,3 +111,12 @@ npm audit fix
 LEKTION 38
 cd client
 npm i classnames
+
+LEKTION 39
+keine Änderungen
+
+LEKTION 40
+Install Redux
+https://redux.js.org/introduction/getting-started
+cd client
+npm i redux react-redux redux-thunk
