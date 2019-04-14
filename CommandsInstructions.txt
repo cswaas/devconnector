@@ -120,3 +120,5 @@ Install Redux
 https://redux.js.org/introduction/getting-started
 cd client
 npm i redux react-redux redux-thunk
+
+LEKTION 41
